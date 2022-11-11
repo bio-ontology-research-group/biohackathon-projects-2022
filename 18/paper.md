@@ -1,6 +1,5 @@
 ---
 title: 'MOWL: machine learning library with ontologies'
-
 tags:
   - Machine Learning
   - OWL ontologies
@@ -23,23 +22,16 @@ authors:
 affiliations:
  - name: Computational Bioscience Research Center, Computer Electrical and Mathematical Sciences & Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
    index: 1
- - name: TDB
+ - name: TBD
    index: 2
  - name: Information Centre for Life Sciences, ZB Med, Cologne, Germany
    index: 3
 
-
-
 date: 11 November 2022
-
 bibliography: paper.bib
-
 authors_short: Zhapa et al. (2022)
-
 group: MOWL
-
 event: BioHackathon Europe 2021
-
 ---
 
 # Introduction or Background
