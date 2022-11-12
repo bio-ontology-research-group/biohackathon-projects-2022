@@ -16,7 +16,7 @@ authors:
     affiliation: 2
   - name: Nelson Quinones-Virgen
     orcid: 0000-0002-5037-0443
-	affiliation: 3
+    affiliation: 3
 affiliations:
  - name: Computational Bioscience Research Center, Computer Electrical and Mathematical Sciences & Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
    index: 1
