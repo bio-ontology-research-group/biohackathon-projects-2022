@@ -4,7 +4,6 @@ tags:
   - Machine Learning
   - OWL ontologies
   - Knowledge representation
-
 authors:
   - name: Fernando Zhapa
     orcid: 0000-0002-0710-2259
@@ -17,12 +16,11 @@ authors:
     affiliation: 2
   - name: Nelson Quinones-Virgen
     orcid: 0000-0002-5037-0443
-   affiliation: 3
-
+	affiliation: 3
 affiliations:
  - name: Computational Bioscience Research Center, Computer Electrical and Mathematical Sciences & Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
    index: 1
- - name: TBD
+ - name: Faculty of Science, Palacký University, Olomouc, Czech Republic
    index: 2
  - name: Information Centre for Life Sciences, ZB Med, Cologne, Germany
    index: 3
