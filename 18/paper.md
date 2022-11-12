@@ -60,15 +60,15 @@ We implemented DeepGOZero [@Kulmanov:2002], a model that performs protein-fuctio
 
 * Training ontology: 
   * Gene Ontology
-  * Axioms of the form $\exists has\\_function. go\_class (protein)$, which encodes protein function annotations. 
-  * Axioms of the form $has\_interpro (protein, interpro)$, which encodes interpro features for proteins.
+  * Axioms of the form $\exists has\\_function. go\\_class (protein)$, which encodes protein function annotations. 
+  * Axioms of the form $has\\_interpro (protein, interpro)$, which encodes interpro features for proteins.
 * Validation ontology:
-  * Axioms of the form $\exists has\_function. go\_class (protein)$
-  * Axioms of the form $has\_interpro (protein, interpro)$
+  * Axioms of the form $\exists has\\_function. go\\_class (protein)$
+  * Axioms of the form $has\\_interpro (protein, interpro)$
 
 * Testing ontology:
-  * Axioms of the form $\exists has\_function. go\_class (protein)$
-  * Axioms of the form $has\_interpro (protein, interpro)$
+  * Axioms of the form $\exists has\\_function. go\\_class (protein)$
+  * Axioms of the form $has\\_interpro (protein, interpro)$
 
 Secondly, since DeepGOZero utilized another model called ELEmbeddings, we replaced all that portion of code the mOWL implementation of ELEmbeddings.
 
