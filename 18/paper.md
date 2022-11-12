@@ -40,7 +40,7 @@ event: BioHackathon Europe 2022
 mOWL is a software library that incorporates several methods to
 generate embeddings of entities in ontologies. The current state of
 mOWL contains several methods categorized into graph-based, syntactic,
-and semantic models [@semanticsim:2020]. We provide
+and semantic models [@Kulmanov:2020]. We provide
 benchmark datasets describing biological phenomena such as
 protein-protein interactions and gene-disease associations. Moreover,
 we provide Jupyter notebooks tutorials describing how mOWL can be used
@@ -60,7 +60,7 @@ We implemented DeepGOZero [@Kulmanov:2002], a model that performs protein-fuctio
 
 * Training ontology: 
   * Gene Ontology
-  * Axioms of the form $\exists has\_function. go\_class (protein)$, which encodes protein function annotations. 
+  * Axioms of the form $$\exists has\_function. go\_class (protein)$$, which encodes protein function annotations. 
   * Axioms of the form $has\_interpro (protein, interpro)$, which encodes interpro features for proteins.
 * Validation ontology:
   * Axioms of the form $\exists has\_function. go\_class (protein)$
