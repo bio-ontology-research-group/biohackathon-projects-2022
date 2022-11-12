@@ -60,7 +60,7 @@ We implemented DeepGOZero [@Kulmanov:2002], a model that performs protein-fuctio
 
 * Training ontology: 
   * Gene Ontology
-  * Axioms of the form $$\exists has\_function. go\_class (protein)$$, which encodes protein function annotations. 
+  * Axioms of the form $\exists has\\_function. go\_class (protein)$, which encodes protein function annotations. 
   * Axioms of the form $has\_interpro (protein, interpro)$, which encodes interpro features for proteins.
 * Validation ontology:
   * Axioms of the form $\exists has\_function. go\_class (protein)$
